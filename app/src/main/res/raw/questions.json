@@ -1,0 +1,1684 @@
+[
+  {
+    "prompt": "A delinquent is hassling a girl on a busy street! What will you do?",
+    "answers": [
+      {
+        "text": "Help without hesitation.",
+        "points": [
+          {
+            "nature": "BRAVE",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "text": "Call the police.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 1
+          },
+          {
+            "nature": "TIMID",
+            "points": 1
+          },
+          {
+            "nature": "RELAXED",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Help, even if scared.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          },
+          {
+            "nature": "BRAVE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Do nothing out of fear.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "A foreign person has started up a conversation with you. To be honest, you don't have a clue what this fellow is saying. How do you reply?",
+    "answers": [
+      {
+        "text": "Um, could you say that again?",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Haha! Yes. Very funny!",
+        "points": [
+          {
+            "nature": "JOLLY",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "text": "Right...well I gotta go.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "A friend brought over something you'd forgotten. How do you thank your friend?",
+    "answers": [
+      {
+        "text": "Say thank you regularly.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Say thanks with a joke.",
+        "points": [
+          {
+            "nature": "NAIVE",
+            "points": 1
+          },
+          {
+            "nature": "LONELY",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Say thanks, but be cool.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "A human hand extends out of a toilet! What would you do?",
+    "answers": [
+      {
+        "text": "Shake hands with it.",
+        "points": [
+          {
+            "nature": "NAIVE",
+            "points": 1
+          },
+          {
+            "nature": "BRAVE",
+            "points": 2
+          },
+          {
+            "nature": "IMPISH",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Close the lid without a word.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 1
+          },
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Scream and run.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "A test is coming up. How do you study for it?",
+    "answers": [
+      {
+        "text": "Ignore it and play.",
+        "points": [
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "At the last second.",
+        "points": [
+          {
+            "nature": "RELAXED",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Study hard.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Are there many things you would like to do?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          },
+          {
+            "nature": "SASSY",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 1
+          },
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Are you a cheerful personality?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "NAIVE",
+            "points": 1
+          },
+          {
+            "nature": "JOLLY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 1
+          },
+          {
+            "nature": "SASSY",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Are you often late for school or meetings?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 1
+          },
+          {
+            "nature": "RELAXED",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          },
+          {
+            "nature": "HASTY",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Can you focus on something you like?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          },
+          {
+            "nature": "DOCILE",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Can you go into a haunted house?",
+    "answers": [
+      {
+        "text": "Uh...n-no...",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No problem.",
+        "points": [
+          {
+            "nature": "BRAVE",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "text": "With someone I like.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Can you sincerely thank someone when you are grateful?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 1
+          },
+          {
+            "nature": "DOCILE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 1
+          },
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do others sometimes call you childish?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "NAIVE",
+            "points": 2
+          },
+          {
+            "nature": "JOLLY",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do others tell you to watch what you say?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          },
+          {
+            "nature": "IMPISH",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you dream of lounging around idly without much excitement?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you fall asleep without noticing?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 1
+          },
+          {
+            "nature": "RELAXED",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you feel lonesome when you are alone?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 1
+          },
+          {
+            "nature": "LONELY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you get the feeling you've slowed down lately?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "RELAXED",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you hate to be the last person to leave class at the end of the day?",
+    "answers": [
+      {
+        "text": "No",
+        "points": [
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Yes",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 1
+          },
+          {
+            "nature": "LONELY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you like groan-inducing puns?",
+    "answers": [
+      {
+        "text": "Love them!",
+        "points": [
+          {
+            "nature": "NAIVE",
+            "points": 3
+          },
+          {
+            "nature": "IMPISH",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "A little.",
+        "points": [
+          {
+            "nature": "JOLLY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Spare me.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you like pranks?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 1
+          },
+          {
+            "nature": "RELAXED",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you like to fight?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          },
+          {
+            "nature": "LONELY",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          },
+          {
+            "nature": "IMPISH",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you like to imagine things for your own amusement?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "NAIVE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you like to noisily enjoy yourself with others?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "LONELY",
+            "points": 1
+          },
+          {
+            "nature": "JOLLY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you often yawn?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          },
+          {
+            "nature": "RELAXED",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 1
+          },
+          {
+            "nature": "HASTY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you occasionally consider yourself to be dull and over cautious?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          },
+          {
+            "nature": "DOCILE",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you sometimes run out of things to do all of a sudden?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you tend to laugh a lot?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 1
+          },
+          {
+            "nature": "NAIVE",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Do you think you are cool? Be honest.",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "RELAXED",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Grab any finger on your left hand. Which digit did you grab?",
+    "answers": [
+      {
+        "text": "Little finger.",
+        "points": [
+          {
+            "nature": "LONELY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Thumb.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Ring finger.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Middle finger.",
+        "points": [
+          {
+            "nature": "JOLLY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Index finger.",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Have you ever made a pitfall trap?",
+    "answers": [
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "LONELY",
+            "points": 1
+          },
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "How quickly do you respond to email?",
+    "answers": [
+      {
+        "text": "Reply right away.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 1
+          },
+          {
+            "nature": "HASTY",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Too much trouble.",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "May reply, may not.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "It's a pleasant day at the beach. How do you feel?",
+    "answers": [
+      {
+        "text": "Snore...",
+        "points": [
+          {
+            "nature": "RELAXED",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "I want to go home soon!",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "This feels great!",
+        "points": [
+          {
+            "nature": "JOLLY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "It's a weekend, but no one will play with you. What do you do?",
+    "answers": [
+      {
+        "text": "Hang around vacantly.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 1
+          },
+          {
+            "nature": "RELAXED",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Huddle in a corner.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 1
+          },
+          {
+            "nature": "LONELY",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "text": "Go on a trip.",
+        "points": [
+          {
+            "nature": "LONELY",
+            "points": 1
+          },
+          {
+            "nature": "JOLLY",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "It's the summer festival! Do you like carnivals?",
+    "answers": [
+      {
+        "text": "Love them!",
+        "points": [
+          {
+            "nature": "JOLLY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Don't care.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 1
+          },
+          {
+            "nature": "SASSY",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "It's the summer holidays! Where would you like to go?",
+    "answers": [
+      {
+        "text": "The beach!",
+        "points": [
+          {
+            "nature": "JOLLY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Spas.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Anywhere.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "On vacation outings, you want to...",
+    "answers": [
+      {
+        "text": "Go with others.",
+        "points": [
+          {
+            "nature": "LONELY",
+            "points": 1
+          },
+          {
+            "nature": "JOLLY",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Go alone.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 1
+          },
+          {
+            "nature": "HASTY",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Somebody calls you \"weird but funny\" How does that make you feel?",
+    "answers": [
+      {
+        "text": "Happy!",
+        "points": [
+          {
+            "nature": "LONELY",
+            "points": 1
+          },
+          {
+            "nature": "NAIVE",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Not happy.",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 1
+          },
+          {
+            "nature": "SASSY",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "The road forks to the right and left. You are told there is treasure on the right. What do you do?",
+    "answers": [
+      {
+        "text": "Choose either side.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Instantly go right.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "It's a trap! Go left!",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "There is a bucket. If you put water in it, how high will you fill it?",
+    "answers": [
+      {
+        "text": "A little.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Half.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Full.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "There is a person you like, but here is no opportunity to get close. What do you do?",
+    "answers": [
+      {
+        "text": "Look from afar.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Bravely declare my love.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 1
+          },
+          {
+            "nature": "BRAVE",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "text": "Might say hello.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Pull a prank to get attention.",
+        "points": [
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "There is a scream from behind a door! How will you react?",
+    "answers": [
+      {
+        "text": "Scream in unison!",
+        "points": [
+          {
+            "nature": "NAIVE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Yank open the door.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 1
+          },
+          {
+            "nature": "BRAVE",
+            "points": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "There is a wallet on the side of the road. What do you do?",
+    "answers": [
+      {
+        "text": "Yay! Yay!",
+        "points": [
+          {
+            "nature": "NAIVE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Turn it in to the police.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Is anyone watching...",
+        "points": [
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "What do you do with you room's light when you go to bed?",
+    "answers": [
+      {
+        "text": "Leave it on.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 1
+          },
+          {
+            "nature": "LONELY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Turn it off.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "When the going gets tough, do you get going?",
+    "answers": [
+      {
+        "text": "No.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          },
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Yes.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 2
+          },
+          {
+            "nature": "BRAVE",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "You are offered a choice of two gifts. Which one will you take?",
+    "answers": [
+      {
+        "text": "Big Box.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 2
+          },
+          {
+            "nature": "NAIVE",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Small Box.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          },
+          {
+            "nature": "CALM",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "You are suddenly locked inside a pitch black room! What do you do?",
+    "answers": [
+      {
+        "text": "Kick the door.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Cry.",
+        "points": [
+          {
+            "nature": "LONELY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Clean it.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 1
+          },
+          {
+            "nature": "IMPISH",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "You broke a rotten egg in your room! What do you do?",
+    "answers": [
+      {
+        "text": "Sniff it first.",
+        "points": [
+          {
+            "nature": "RELAXED",
+            "points": 1
+          },
+          {
+            "nature": "NAIVE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Open a window right away.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 2
+          },
+          {
+            "nature": "HASTY",
+            "points": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "You come across a treasure chest! What do you do?",
+    "answers": [
+      {
+        "text": "It's going to be empty...",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Open it right away!",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "No...It could be a trap...",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "You win a lottery! What do you do with the money?",
+    "answers": [
+      {
+        "text": "Save it.",
+        "points": [
+          {
+            "nature": "HARDY",
+            "points": 1
+          },
+          {
+            "nature": "QUIRKY",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Spend it now.",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 1
+          },
+          {
+            "nature": "JOLLY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Give it away.",
+        "points": [
+          {
+            "nature": "QUIRKY",
+            "points": 2
+          },
+          {
+            "nature": "BRAVE",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "You receive a gift! But you don't know what's in it. What do you do?",
+    "answers": [
+      {
+        "text": "Open it now.",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Get someone to open it.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Open it later.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Your country's leader is in front of you. How do you speak to him or her?",
+    "answers": [
+      {
+        "text": "Speak calmly.",
+        "points": [
+          {
+            "nature": "CALM",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Speak nervously.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "WHATEVER!",
+        "points": [
+          {
+            "nature": "SASSY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Your friend fails to show up for a meeting at the promised time. What do you do?",
+    "answers": [
+      {
+        "text": "Wait patiently.",
+        "points": [
+          {
+            "nature": "RELAXED",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Get angry and bail.",
+        "points": [
+          {
+            "nature": "HASTY",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "text": "Become irritated.",
+        "points": [
+          {
+            "nature": "DOCILE",
+            "points": 1
+          },
+          {
+            "nature": "HASTY",
+            "points": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "prompt": "Your friend is being bullied! What do you do?",
+    "answers": [
+      {
+        "text": "Caution the bully from afar.",
+        "points": [
+          {
+            "nature": "TIMID",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "text": "Heckle the bully from behind.",
+        "points": [
+          {
+            "nature": "BRAVE",
+            "points": 3
+          },
+          {
+            "nature": "IMPISH",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "text": "Face up to the bully.",
+        "points": [
+          {
+            "nature": "BRAVE",
+            "points": 3
+          }
+        ]
+      }
+    ]
+  }
+]

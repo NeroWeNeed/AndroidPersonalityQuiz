@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokemon Personality Quiz</string>
+    <string name="start_button">Start</string>
+    <string name="aura_test_line_1">Relax</string>
+    <string name="aura_test_line_2">Calm yourself</string>
+    <string name="aura_test_line_3">And now press your fingertip gently on the Button.</string>
+    <string name="aura_test_button">Test Aura</string>
+    <string name="results_line_1">Your personality is…</string>
+</resources>

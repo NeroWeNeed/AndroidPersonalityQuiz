@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Silver",
+    "description": "A stately silver"
+  },
+  {
+    "name": "Brown",
+    "description": "A subdued brown"
+  },
+  {
+    "name": "Red",
+    "description": "A fiery red"
+  },
+  {
+    "name": "Pink",
+    "description": "An uplifting pink"
+  },
+  {
+    "name": "Orange",
+    "description": "A stunning orange"
+  },
+  {
+    "name": "Yellow",
+    "description": "An energetic yellow"
+  },
+  {
+    "name": "Lime",
+    "description": "A brilliant green"
+  },
+  {
+    "name": "Green",
+    "description": "A refreshing green"
+  },
+  {
+    "name": "Viridian",
+    "description": "A deep green"
+  },
+  {
+    "name": "Mint",
+    "description": "A gentle mint green"
+  },
+  {
+    "name": "Blue",
+    "description": "A clear aqua blue"
+  },
+  {
+    "name": "Sky Blue",
+    "description": "A cool sky blue"
+  },
+  {
+    "name": "Cobalt Blue",
+    "description": "A smart marine blue"
+  },
+  {
+    "name": "Purple",
+    "description": "A mystic purple"
+  },
+  {
+    "name": "Violet",
+    "description": "An elegant violet"
+  },
+  {
+    "name": "Fuschia",
+    "description": "A vivid pink"
+  }
+]
